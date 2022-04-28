@@ -1,0 +1,8 @@
+C:\Users\Rávilon\source\repos\TriagemHospitalar\TriagemHospitalar\bin\Debug\TriagemHospitalar.exe.config
+C:\Users\Rávilon\source\repos\TriagemHospitalar\TriagemHospitalar\bin\Debug\TriagemHospitalar.exe
+C:\Users\Rávilon\source\repos\TriagemHospitalar\TriagemHospitalar\bin\Debug\TriagemHospitalar.pdb
+C:\Users\Rávilon\source\repos\TriagemHospitalar\TriagemHospitalar\obj\Debug\TriagemHospitalar.csproj.AssemblyReference.cache
+C:\Users\Rávilon\source\repos\TriagemHospitalar\TriagemHospitalar\obj\Debug\TriagemHospitalar.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rávilon\source\repos\TriagemHospitalar\TriagemHospitalar\obj\Debug\TriagemHospitalar.csproj.CoreCompileInputs.cache
+C:\Users\Rávilon\source\repos\TriagemHospitalar\TriagemHospitalar\obj\Debug\TriagemHospitalar.exe
+C:\Users\Rávilon\source\repos\TriagemHospitalar\TriagemHospitalar\obj\Debug\TriagemHospitalar.pdb
